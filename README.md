@@ -59,8 +59,7 @@
 
 
 <br> <br>
-<div style="text-align: center;">
-  <p>
-    <img src="https://media.giphy.com/media/qEqiI3Oq7vBkoE236M/giphy.gif" width="300px" height="">
-  </p>
-</div>
+<p align="center">
+  <img src="https://media.giphy.com/media/qEqiI3Oq7vBkoE236M/giphy.gif" width="300px">
+</p>
+
