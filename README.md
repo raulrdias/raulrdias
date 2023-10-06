@@ -1,6 +1,6 @@
 <h1 align="left">Hi , I'm Raul Dias </h1> 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=raulrdias&color=green" alt="Profile views" /> </p>
-<img src="https://i.ibb.co/GCd0TjT/logo-animation.gif" alt="logo-animation" border="0">
+<img src="https://i.ibb.co/QXLFWD5/Sem-T-tulo-2.gif" alt="Sem-T-tulo-2" border="0">
 
 
 <p>🏡 - Pernambucano.</p>
