@@ -1,13 +1,14 @@
-<img align="right" height="590em" src="https://raw.githubusercontent.com/gist/raulrdias/a521a9d312e1593a918a28f3f1da2e82/raw/39b44e4fabb827447774daaa2c08175871c76496/githubcard.svg"/>
-<h1 align="left">Hi , I'm Raul Dias <img src="https://i.gifer.com/14TL.gif" height="50px"></h1>
+<img src="https://i.ibb.co/MBLf5r4/animation-fim.gif" alt="animation-fim" border="0">
+<h1 align="left">Hi , I'm Raul Dias </h1> 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=raulrdias&color=green" alt="Profile views" /> </p>
+<img src="https://i.ibb.co/GCd0TjT/logo-animation.gif" alt="logo-animation" border="0">
 
-<br>
-<p>🏡 - Moro em Pernambuco.</p>
-<p>🎓- Análise e Desenvolvimento de Sistemas. <a target="_blank" href="https://www.uninabuco.digital/">- UNINABUCO</a></p>
-<p>📚- Desenvolvimento de Software - Foco em Backend - iFood. <a target="_blank" href="https://cubos.academy/">- Cubos Academy</a></p>
+
+<p>🏡 - Pernambucano.</p>
+<p>🎯 - Meu Portfólio <a target="_blank" href="https://raulrdias.github.io/portfolio/">- AQUI </a></p>
 <p>👨🏼‍💻 - Formação Full Stack. <a target="_blank" href="https://www.uninabuco.digital/">- DIO PRO</a></p>
-<p>🎯 - Ver mais <a target="_blank" href="https://raul.fun/">- raul.fun</a></p></p>
+<p>🎓 - Análise e Desenvolvimento de Sistemas. <a target="_blank" href="https://www.uninabuco.digital/">- UNINABUCO</a></p>
+<p>📚 - Desenvolvimento de Software - Foco em Backend - iFood. <a target="_blank" href="https://cubos.academy/">- Cubos Academy</a></p>
 
 <br>
 
@@ -26,17 +27,6 @@
   <img align="center" alt="VSCODE" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg">
 
 </div>
-
-
-<!--
-## ⚙️ &nbsp;GitHub Analytics
-
-<p align="left">
-<img width="530em" src="https://github-readme-stats.vercel.app/api?username=raulrdias&show_icons=true&theme=vision-friendly-dark" alt="maykbrito's stats"/>
-<img width="530em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=raulrdias&layout=compact&theme=vision-friendly-dark" alt="maykbrito's most languages"/>
-</p>
--->
-
 
 <br>
 
@@ -58,8 +48,6 @@
 </div>
 
 
-<br> <br>
-<p align="center">
-  <img src="https://media.giphy.com/media/qEqiI3Oq7vBkoE236M/giphy.gif" width="300px">
-</p>
+<br>
 
+<img src="https://i.ibb.co/MBLf5r4/animation-fim.gif" alt="animation-fim" border="0">
