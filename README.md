@@ -1,4 +1,3 @@
-<img src="https://i.ibb.co/MBLf5r4/animation-fim.gif" alt="animation-fim" border="0">
 <h1 align="left">Hi , I'm Raul Dias </h1> 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=raulrdias&color=green" alt="Profile views" /> </p>
 <img src="https://i.ibb.co/GCd0TjT/logo-animation.gif" alt="logo-animation" border="0">
@@ -49,5 +48,3 @@
 
 
 <br>
-
-<img src="https://i.ibb.co/MBLf5r4/animation-fim.gif" alt="animation-fim" border="0">
